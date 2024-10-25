@@ -1,1 +1,2 @@
-select * from table
+select id,name
+from table
